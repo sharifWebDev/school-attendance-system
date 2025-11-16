@@ -54,7 +54,7 @@ A comprehensive Mini School Attendance System built with Laravel backend and Vue
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sharifWebDev/school-attendance-system.git
 cd school-attendance-system
 ```
 
